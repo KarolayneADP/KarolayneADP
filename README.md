@@ -26,7 +26,7 @@ Sou uma futura desenvolvedora Back-end apaixonada por programação, repleta de 
 ##
 
 <p align="center">
- Se eu vi mais longe, foi por estar sobre ombros de gigantes. - Isaac Newton
+ "Se eu vi mais longe, foi por estar sobre ombros de gigantes." - Isaac Newton
 </p>
 
 
