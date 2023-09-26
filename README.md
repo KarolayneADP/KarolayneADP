@@ -11,6 +11,7 @@ Sou uma futura desenvolvedora Back-end apaixonada por programação, repleta de 
 
 ## Hard Skills 💻
 <div>
+  <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
   <img align="center" alt="Rafa-Js" height="35" width="110" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Rafa-Ts" height="35" width="110" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Rafa-React" height="35" width="110" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
