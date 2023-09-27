@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-Sou uma futura desenvolvedora Back-end apaixonada por programação, repleta de sonhos e ambições. Minhas soft skills são meu diferencial, as empresas vão amar me conhecer! No GitHub, estou determinada a mostrar todo meu potencial e talento. Meu futuro na área será brilhante!
+Olá, muito prazer e seja bem vindo ao meu perfil! Meu nome é Karolayne Arantes Dias do Prado, mas pode me chamar de Karol. Sou estudante de Analise e Desenvolvimento de Software, colocando em foco o desenvolvimento Back-end, estou em busca de uma colocação no mercado de trabalho para que eu possa colocar na prática todo conhecimento que venho adquirindo. Mas olha, eu sou mais que código! Sou dedicada, esforçada e tô sempre querendo aprender.
 
 ## Me encontre aqui 👇
 <div> 
