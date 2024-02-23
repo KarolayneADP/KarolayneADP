@@ -2,7 +2,7 @@
 
 👋 Bem-vindo ao meu perfil do GitHub! Me chamo Karolayne Arantes e estou animada para compartilhar meu trabalho e colaborar com a comunidade!
 
-🌟 Sou uma desenvolvedora apaixonada com habilidades em várias linguagens de programação, incluindo JavaScript, Python e SQL. Além disso, estou constantemente aprendendo e buscando aprimorar minhas habilidades técnicas.
+🌟 Sou uma desenvolvedora empenhada com conhecimento em várias linguagens de programação, incluindo JavaScript, Python e SQL. Além disso, estou constantemente aprendendo e buscando aprimorar minhas habilidades técnicas.
 
 💼 Além do meu conhecimento técnico, possuo fortes habilidades interpessoais, como comunicação eficaz, trabalho em equipe e resolução de problemas. Estou sempre disposta a colaborar e ajudar os outros, buscando criar um ambiente de trabalho colaborativo e produtivo.
 
